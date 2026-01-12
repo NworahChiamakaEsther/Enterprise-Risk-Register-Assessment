@@ -1,13 +1,13 @@
 # Risk Identification
 
 ## Identification Approach/Method
----
+
 Risks were identified through:
--Reviewing the business operations
--Checklikst format of cybersecurity threats
--Scenerio-basis
--Analysis of regulatory obligations
--Association with third-party dependencies
+- Review of business operations
+- Analysis of regulatory obligations
+- Consideration of cybersecurity threats
+- Review of third-party dependencies
+- Scenerio-basis
 
 ## Identified Risks
 1. Third-Party Vendor Breach
