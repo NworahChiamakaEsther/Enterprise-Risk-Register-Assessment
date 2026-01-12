@@ -1,4 +1,4 @@
-# Enterprise-Risk-Register-Assessment
+# Enterprise Risk Assessment & Risk Register
 Risk Assessment 
 
 This repository documents an enterprise-level risk assessment and risk register developed for governance, risk, and compliance (GRC) portfolio purposes.
