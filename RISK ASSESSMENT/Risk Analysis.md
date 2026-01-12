@@ -5,6 +5,10 @@ In this phase, each identified risk is assessed for **likelihood** and **impact*
 The results are summarized in a **risk matrix** to determine overall risk levels.
 
 ---
+## Risk Matrix Heat Map
+![Risk Heat Map](![Uploading risk heatmap.png…]()
+)
+
 
 ## Likelihood Assessment
 - Assign a likelihood score (1–5) for each risk based on probability of occurrence.
@@ -56,9 +60,6 @@ The results are summarized in a **risk matrix** to determine overall risk levels
 | **1 Insignificant**|        |            |            |          |                |
 
 > You can fill each cell with the **risk level** (Low, Medium, High, Extreme) for reference.
-
-## Risk Matrix Heat Map
-![Risk Heat Map] (https://miro.com/app/board/uXjVGRpsCDg=/?share_link_id=943309800201)
 
 
 
