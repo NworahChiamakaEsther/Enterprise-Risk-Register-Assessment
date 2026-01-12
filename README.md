@@ -1,33 +1,30 @@
 # Enterprise Risk Assessment & Risk Register
 Risk Assessment 
 
-This repository documents an enterprise-level risk assessment and risk register developed for governance, risk, and compliance (GRC) portfolio purposes.
+This repository documents an end-to-end enterprise risk management (ERM) assessment conducted for a fictional organization as a practical GRC portfolio project.
 
-The project demonstrates how organizational risks are identified, assessed, documented, and managed using a structured and repeatable approach aligned with ISO 31000 and COSO ERM principles.
+The project demonstrates the full risk management lifecycle, including context establishment, risk identification, analysis, evaluation, treatment, and monitoring.
 
-## Objectives
-- Identify and assess enterprise risks
-- Maintain a structured risk register
-- Demonstrate risk scoring and treatment decisions
-- Support governance and risk oversight activities
+## Organization Profile (Fictional)
+- Industry: Technology Services
+- Size: Mid-sized enterprise
+- Operations: Cloud-based service delivery
+- Data Handled: Customer personal data and business-critical information
+- Regulatory Exposure: Data protection and cybersecurity regulations
 
-## Scope
-- Strategic risks
-- Operational risks
-- Cybersecurity and information security risks
-- Compliance and regulatory risks
-- Third-party and vendor risks
+## Project Objective
+To identify, assess, prioritize, and manage enterprise risks that could impact organizational objectives.
 
-## Risk Scoring Method
-Risk Score = Likelihood × Impact
+## Framework References
+- ISO 31000 – Risk Management
+- COSO Enterprise Risk Management
 
-## Risk Treatment Options
-- Avoid
-- Mitigate
-- Transfer
-- Accept
-
+## Deliverables
+- Risk assessment documentation
+- Completed enterprise risk register
+- Risk treatment plan
+- Monitoring and review approach
 
 ## Author
 Nworah Chiamaka Esther  
-GRC & SOC | Risk | Cybersecurity
+GRC | Risk | Cybersecurity
