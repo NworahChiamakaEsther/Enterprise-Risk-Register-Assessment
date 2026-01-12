@@ -6,7 +6,7 @@ The results are summarized in a **risk matrix** to determine overall risk levels
 
 ---
 ## Risk Matrix Heat Map
-
+[Risk Heat Map](https://github.com/NworahChiamakaEsther/Enterprise-Risk-Register-Assessment/issues/1#issue-3805059434)
 
 ## Likelihood Assessment
 - Assign a likelihood score (1–5) for each risk based on probability of occurrence.
