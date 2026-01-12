@@ -6,8 +6,8 @@ The results are summarized in a **risk matrix** to determine overall risk levels
 
 ---
 ## Risk Matrix Heat Map
-![Risk Heat Map](![Uploading risk heatmap.png…]()
-)
+<img width="443" height="212" alt="risk heatmap" src="https://github.com/user-attachments/assets/9298266d-4d59-4d37-9484-8eb78dab7ceb" />
+
 
 
 ## Likelihood Assessment
