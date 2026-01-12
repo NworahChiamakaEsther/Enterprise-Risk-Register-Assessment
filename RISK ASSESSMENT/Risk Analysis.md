@@ -57,6 +57,12 @@ The results are summarized in a **risk matrix** to determine overall risk levels
 
 > You can fill each cell with the **risk level** (Low, Medium, High, Extreme) for reference.
 
+## Risk Matrix Heat Map
+![Risk Heat Map](## Risk Matrix Heat Map
+![Risk Heat Map](diagrams/risk-heatmap.png)
+)
+
+
 ---
 
 ## Risk Scoring Table
