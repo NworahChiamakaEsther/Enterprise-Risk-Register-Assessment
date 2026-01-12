@@ -19,6 +19,14 @@ To identify, assess, prioritize, and manage enterprise risks that could impact o
 - ISO 31000 – Risk Management
 - COSO Enterprise Risk Management
 
+
+## Sections
+
+- [Risk Assessment](risk-assessment/)  
+- [Risk Register](risk-register/)  
+- [Policies](policies/)
+
+
 ## Deliverables
 - Risk assessment documentation
 - Completed enterprise risk register
