@@ -4,7 +4,7 @@ This folder contains all files documenting the **Enterprise Risk Assessment** pr
 
 Each file represents a key stage of the risk management process:
 
-- [Assessment Context](assessment-context.md): Business context, assumptions, and risk appetite.
+- [Assessment Context](https://github.com/NworahChiamakaEsther/Enterprise-Risk-Register-Assessment/blob/main/RISK%20ASSESSMENT/assessment%20context.md): Business context, assumptions, and risk appetite.
 - [Risk Identification](risk-identification.md): Detailed list of identified enterprise risks.
 - [Risk Analysis](risk-analysis.md): Likelihood, impact, and risk scoring for each risk.
 - [Risk Evaluation](risk-evaluation.md): Risk prioritization and evaluation results.
