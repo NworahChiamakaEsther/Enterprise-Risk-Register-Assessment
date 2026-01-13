@@ -18,13 +18,13 @@ The results are summarized in a **risk matrix** to determine overall risk levels
   - 4 = Likely
   - 5 = Almost Certain
 
-| Risk ID | Risk Description | Likelihood (1-5) |
-|---------|-----------------|-----------------|
-| 1       |                 |                 |
-| 2       |                 |                 |
-| 3       |                 |                 |
-| 4       |                 |                 |
-| 5       |                 |                 |
+| Risk ID             | Risk Description | Likelihood (1-5) |
+|---------------------|------------------|------------------|
+| 1 RISK-TPR-001      | Third-Party Vendor Breach|    5             | 
+| 2 RISK-SEC-002      | Ransomware Attack               |     4           | 
+| 3 RISK-COM-003      | Non-compliance with data protection laws               |  3               |
+| 4 RISK-OPS-004      | System downtime affecting availability                |   3              |
+| 5 RISK-OPS-005      | Inadequate Enterprise Risk Oversight                | 4                |
 
 ---
 
@@ -39,11 +39,11 @@ The results are summarized in a **risk matrix** to determine overall risk levels
 
 | Risk ID | Risk Description | Impact (1-5) |
 |---------|-----------------|---------------|
-| 1       |                 |               |
-| 2       |                 |               |
-| 3       |                 |               |
-| 4       |                 |               |
-| 5       |                 |               |
+| 1 RISK-TPR-001      | Third-Party Vendor Breach                |   4            |
+| 2 RISK-SEC-002      | Ransomware Attack                |  4             |
+| 3 RISK-COM-003      | Non-compliance with data protection laws                |   3            |
+| 4 RISK-OPS-004       | System downtime affecting availability                |   4            |
+| 5 RISK-OPS-005      | Inadequate Enterprise Risk Oversight                |     3          |
 
 ---
 
@@ -52,13 +52,13 @@ The results are summarized in a **risk matrix** to determine overall risk levels
 
 | Impact \ Likelihood | 1 Rare | 2 Unlikely | 3 Possible | 4 Likely | 5 Almost Certain |
 |--------------------|--------|------------|------------|----------|----------------|
-| **5 Catastrophic** |        |            |            |          |                |
-| **4 Major**        |        |            |            |          |                |
-| **3 Moderate**     |        |            |            |          |                |
-| **2 Minor**        |        |            |            |          |                |
-| **1 Insignificant**|        |            |            |          |                |
+| **5 Catastrophic** | moderate       | high/major           | very high/extreme           | very high/extreme         |  catastrophic              |
+| **4 Major**        | low       |  moderate          | high/major           | very high/extreme         | very high/extreme               |
+| **3 Moderate**     |  low      |  moderate          |  high/major          | high/major         | very high/extreme               |
+| **2 Minor**        |  low      |  low          |  moderate          | moderate         |   high/major             |
+| **1 Insignificant**| low       | low           |   low         |   low       |  moderate              |
 
-> You can fill each cell with the **risk level** (Low, Medium, High, Extreme) for reference.
+> For reference **risk level** (Low, Moderate, High, Very High/Extreme and Catastrophic) 
 
 
 
@@ -70,14 +70,13 @@ The results are summarized in a **risk matrix** to determine overall risk levels
 
 | Risk ID | Description | Likelihood | Impact | Risk Score (L×I) | Risk Level |
 |---------|------------|-----------|--------|-----------------|------------|
-| 1       |            |           |        |                 |            |
-| 2       |            |           |        |                 |            |
-| 3       |            |           |        |                 |            |
-| 4       |            |           |        |                 |            |
-| 5       |            |           |        |                 |            |
+| 1 RISK-TPR-001       |     Third-Party Vendor Breach      |    5     |    4   |       20          |  Very High/Extreme          |
+| 2 RISK-SEC-002      |     Ransomware Attack      |     4     |    4   |        16         |   Very High/Extreme         |
+| 3 RISK-COM-003      |     Non-compliance with data protection laws       |     3      |   3    |         9        |  High/Major          |
+| 4 RISK-OPS-004      |    System downtime affecting availability       |      3    |   4    |        12         |   High/Major         |
+| 5 RISK-OPS-005       |    Inadequate Enterprise Risk Oversight         |     4     |   3    |       12          |  High/Major          |
 
 ---
 
 ## Notes:
 - All scoring and evaluation in this phase feeds into **Risk Evaluation** and **Treatment Planning**.
-- You can add additional columns such as **existing controls** or **risk owner** in your next phase if needed.
