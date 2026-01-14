@@ -7,6 +7,7 @@ The project demonstrates the full risk management lifecycle, including context e
 
 ## Organization Profile (Fictional)
 - Industry: Technology Services
+- StarLimited Inc
 - Size: Mid-sized enterprise
 - Operations: Cloud-based service delivery
 - Data Handled: Customer personal data and business-critical information
