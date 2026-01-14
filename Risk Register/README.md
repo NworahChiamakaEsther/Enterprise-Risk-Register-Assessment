@@ -8,7 +8,7 @@ The registers document identified risks, assess likelihood and impact, define co
 
 ## Folder Contents
 
-1. **[Comprehensive Risk Register](comprehensive-risk-register.md)**  
+1. **[Comprehensive Risk Register](https://github.com/NworahChiamakaEsther/Enterprise-Risk-Register-Assessment/blob/main/Risk%20Register/Comprehensive%20Risk%20Register.md)**  
    - Full lifecycle of risks including initial assessment, existing controls, treatment, and residual risk.
 
 2. **[Risk Scoring Matrix](risk-scoring-matrix.md)**  
