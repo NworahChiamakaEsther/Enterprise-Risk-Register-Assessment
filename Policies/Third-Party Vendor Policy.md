@@ -1,4 +1,5 @@
 # Third-Party Vendor Risk Management Policy
+StarLimited Inc
 
 ## 1. Purpose
 The purpose of this policy is to establish a structured approach for identifying, assessing, managing, and monitoring risks associated with third-party vendors.  
@@ -94,7 +95,7 @@ Non-compliance may result in termination of vendor contracts or internal discipl
 - ISO 31000:2018 – Risk Management Guidelines  
 - ISO 27036 – Information Security for Supplier Relationships  
 - COSO ERM Framework  
-- NDPR, GDPR, HIPAA, and other applicable regulations
+- NDPR, GDPR, and other applicable regulations
 
 ---
 
