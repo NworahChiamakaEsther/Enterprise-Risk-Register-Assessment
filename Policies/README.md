@@ -31,7 +31,7 @@ The following policies form the core risk management framework for StarLimited I
 - Establishes risk appetite, roles, and responsibilities
 - Describes the risk management lifecycle
 
-➡ **[Risk Management Policy](risk-management-policy.md)**
+➡ **[Risk Management Policy]([risk-management-policy.md](https://github.com/NworahChiamakaEsther/Enterprise-Risk-Register-Assessment/blob/main/Policies/Risk%20Management%20Policy.md))**
 
 ---
 
