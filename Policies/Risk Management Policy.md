@@ -26,7 +26,7 @@ The organization operates in an environment characterized by:
 - Dependence on third-party service providers
 - Regulatory obligations related to data protection
 - High reliance on system availability and digital infrastructure
-- 
+
 ## Risk Appetite and Tolerance
 The organization defines risk appetite to guide decision-making:
 - **Low Risk:** Acceptable without formal mitigation
