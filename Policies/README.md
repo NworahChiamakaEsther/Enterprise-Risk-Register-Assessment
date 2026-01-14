@@ -44,21 +44,13 @@ The following policies form the core risk management framework for StarLimited I
 
 ---
 
-### 🛡 Data Protection & Privacy Policy
-- Governs the handling of personal and sensitive data
-- Supports compliance with GDPR, NDPR, and related regulations
-- Defines data protection principles and breach management
-
-➡ **[Data Protection and Privacy Policy](data-protection-and-privacy-policy.md)**
-
----
 
 ### 🔗 Third-Party Risk Management Policy
 - Manages risks arising from vendors and external service providers
 - Establishes vendor risk assessment and due diligence requirements
 - Addresses third-party access, data sharing, and dependency risks
 
-➡ **[Third-Party Risk Management Policy](third-party-risk-management-policy.md)**
+➡ **[Third-Party Risk Management Policy](https://github.com/NworahChiamakaEsther/Enterprise-Risk-Register-Assessment/blob/main/Policies/Third-Party%20Vendor%20Policy.md)**
 
 ---
 
@@ -66,7 +58,6 @@ The following policies form the core risk management framework for StarLimited I
 These policies directly support:
 - **Risk Assessment** – providing governance and methodology
 - **Risk Register** – defining how risks are documented and managed
-- **Monitoring and Review** – ensuring continuous risk oversight
 
 ---
 
