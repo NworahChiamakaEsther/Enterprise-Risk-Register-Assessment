@@ -25,7 +25,7 @@ To identify, assess, prioritize, and manage enterprise risks that could impact o
 
 - [Risk Assessment](https://github.com/NworahChiamakaEsther/Enterprise-Risk-Register-Assessment/tree/main/RISK%20ASSESSMENT)  
 - [Risk Register](risk-register/)  
-- [Policies](policies/)
+- [Policies](https://github.com/NworahChiamakaEsther/Enterprise-Risk-Register-Assessment/tree/main/Policies)
 
 
 ## Deliverables
