@@ -10,12 +10,15 @@ This policy applies to:
 - All business operations, systems, processes, and projects
 - Strategic, operational, financial, compliance, and information security risks
 
-## 3. Risk Management Objectives
-StarLimited Inc aims to:
-- Protect sensitive client and organizational data
-- Ensure continuous availability of cloud-based services
-- Meet regulatory and contractual obligations
-- Reduce the likelihood and impact of adverse risk events
+## 3. Policy Statement
+The organization is committed to:
+- Identifying and assessing risks that may impact objectives
+- Managing risks within the organization's defined risk appetite and tolerance
+- Implementing controls to reduce risk to an acceptable level
+- Maintaining transparency and accountability in risk decision-making
+- Promoting a culture of risk awareness throughout the organization
+
+---
 
 ## 4. Risk Environment
 The organization operates in an environment characterized by:
@@ -23,7 +26,17 @@ The organization operates in an environment characterized by:
 - Dependence on third-party service providers
 - Regulatory obligations related to data protection
 - High reliance on system availability and digital infrastructure
+- 
+## Risk Appetite and Tolerance
+The organization defines risk appetite to guide decision-making:
+- **Low Risk:** Acceptable without formal mitigation
+- **Medium Risk:** Acceptable with monitoring and controls
+- **High Risk:** Requires active mitigation
+- **Critical Risk:** Unacceptable; must be escalated
 
+Risk tolerance thresholds are reviewed annually or after major business or regulatory changes.
+
+---
 ## 5. Risk Appetite
 StarLimited Inc has a **moderate risk appetite**. The organization prioritizes:
 - Protection of sensitive data
@@ -49,10 +62,16 @@ Risks shall be treated using one or more of the following approaches:
 - Accept
 
 ## 8. Roles and Responsibilities
-- **Executive Management:** Oversight of enterprise risk posture
-- **Risk Owner:** Accountable for managing assigned risks
-- **IT & Security Teams:** Implement technical risk controls
-- **All Employees:** Identify and report risks
+
+| Role | Responsibility |
+|-----|----------------|
+| Board of Directors | Approve risk appetite, oversee enterprise risk management, receive key risk reports |
+| Executive Management | Ensure implementation of this policy, allocate resources, monitor risk program effectiveness |
+| Risk Management Committee | Evaluate and prioritize risks, review treatment strategies, escalate critical risks |
+| Risk Owners | Identify, assess, and manage risks in their area, implement controls, monitor residual risk |
+| Employees | Adhere to risk management requirements and report emerging risks |
+
+---
 
 ## 9. Risk Register
 A centralized enterprise risk register shall be maintained to document:
@@ -70,7 +89,14 @@ Risks shall be reviewed:
 
 ## 11. Policy Review
 This policy shall be reviewed annually or upon significant changes to the risk environment.
-## 12. Document Control
+
+## 12. Policy Compliance
+All staff must comply with this policy. Non-compliance may result in disciplinary action, up to and including termination.
+
+Audits and reviews will be conducted to ensure adherence.
+
+---
+## 13. Document Control
 
 | Version | Date | Description |
 |-------|------|-------------|
