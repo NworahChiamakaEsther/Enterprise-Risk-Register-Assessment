@@ -8,16 +8,17 @@ The registers document identified risks, assess likelihood and impact, define co
 
 ## Folder Contents
 
-1. **Comprehensive Risk Register (`comprehensive-risk-register.md`)**
-   - Full lifecycle of risks including initial assessment, controls, treatment, and residual risk.
-   
-2. **Risk Scoring Matrix (`risk-scoring-matrix.md`)**
+1. **[Comprehensive Risk Register](comprehensive-risk-register.md)**  
+   - Full lifecycle of risks including initial assessment, existing controls, treatment, and residual risk.
+
+2. **[Risk Scoring Matrix](risk-scoring-matrix.md)**  
    - Likelihood × Impact table used to calculate risk levels.
-   
-3. **Residual Risk Register (`residual-risk-register.md`)**
+
+3. **[Residual Risk Register](residual-risk-register.md)**  
    - Updated register showing risks after treatment measures are applied.
 
 ---
+
 
 ## Methodology
 
