@@ -1,3 +1,5 @@
+## Risk Matrix Heat Map
+<img width="443" height="212" alt="risk heatmap" src="https://github.com/user-attachments/assets/53c04b25-74b8-4c09-ae43-a67e0a839fda" />
 
 ## Risk Matrix
 - This **5x5 matrix** visually combines likelihood and impact to determine risk level.
