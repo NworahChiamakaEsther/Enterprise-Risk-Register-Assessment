@@ -40,7 +40,7 @@ The following policies form the core risk management framework for StarLimited I
 - Addresses cybersecurity risks and system security controls
 - Supports service availability and resilience
 
-➡ **[Information Security Policy](information-security-policy.md)**
+➡ **[Information Security Policy](https://github.com/NworahChiamakaEsther/Enterprise-Risk-Register-Assessment/blob/main/Policies/Information%20Security%20Policy.md)**
 
 ---
 
