@@ -11,7 +11,7 @@ The registers document identified risks, assess likelihood and impact, define co
 1. **[Comprehensive Risk Register](https://github.com/NworahChiamakaEsther/Enterprise-Risk-Register-Assessment/blob/main/Risk%20Register/Comprehensive%20Risk%20Register.md)**  
    - Full lifecycle of risks including initial assessment, existing controls, treatment, and residual risk.
 
-2. **[Risk Scoring Matrix](risk-scoring-matrix.md)**  
+2. **[Risk Scoring Matrix](https://github.com/NworahChiamakaEsther/Enterprise-Risk-Register-Assessment/blob/main/Risk%20Register/Risk%20Heatmap%20%26%20Scoring%20Matrix.md)**  
    - Likelihood × Impact table used to calculate risk levels.
 
 3. **[Residual Risk Register](https://github.com/NworahChiamakaEsther/Enterprise-Risk-Register-Assessment/blob/main/Risk%20Register/Residual%20Risk%20Register.md)**  
