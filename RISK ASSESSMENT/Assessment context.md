@@ -2,6 +2,7 @@
 
 ## Business Context
 NAME: StarLimited Inc
+
 The organization provides cloud-based technology services to multiple clients and relies heavily on digital infrastructure and third-party vendors.
 
 ## Risk Environment
