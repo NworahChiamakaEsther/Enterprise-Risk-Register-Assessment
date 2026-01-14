@@ -4,7 +4,7 @@
 This Risk Treatment Plan defines the actions selected to address identified risks following the risk assessment process.  
 The objective is to reduce risk exposure to an acceptable level while aligning with organizational risk appetite and regulatory expectations.
 
-This document supports compliance with:
+This plan supports compliance with:
 - ISO 31000 – Risk Management
 - COSO Enterprise Risk Management (ERM)
 
