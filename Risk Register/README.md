@@ -14,7 +14,7 @@ The registers document identified risks, assess likelihood and impact, define co
 2. **[Risk Scoring Matrix](risk-scoring-matrix.md)**  
    - Likelihood × Impact table used to calculate risk levels.
 
-3. **[Residual Risk Register](residual-risk-register.md)**  
+3. **[Residual Risk Register](https://github.com/NworahChiamakaEsther/Enterprise-Risk-Register-Assessment/blob/main/Risk%20Register/Residual%20Risk%20Register.md)**  
    - Updated register showing risks after treatment measures are applied.
 
 ---
