@@ -1,0 +1,13 @@
+
+## Risk Matrix
+- This **5x5 matrix** visually combines likelihood and impact to determine risk level.
+
+| Impact \ Likelihood | 1 Rare | 2 Unlikely | 3 Possible | 4 Likely | 5 Almost Certain |
+|--------------------|--------|------------|------------|----------|----------------|
+| **5 Catastrophic** | moderate       | high/major           | very high/extreme           | very high/extreme         |  catastrophic              |
+| **4 Major**        | low       |  moderate          | high/major           | very high/extreme         | very high/extreme               |
+| **3 Moderate**     |  low      |  moderate          |  high/major          | high/major         | very high/extreme               |
+| **2 Minor**        |  low      |  low          |  moderate          | moderate         |   high/major             |
+| **1 Insignificant**| low       | low           |   low         |   low       |  moderate              |
+
+> For reference **risk level** (Low, Moderate, High, Very High/Extreme and Catastrophic) 
