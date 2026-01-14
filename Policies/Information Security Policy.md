@@ -79,7 +79,7 @@ Violations may result in disciplinary action, up to termination, and may involve
 ## 11. References
 - ISO/IEC 27001:2022 – Information Security Management  
 - NIST Cybersecurity Framework  
-- NDPR, GDPR, HIPAA, and other applicable laws  
+- NDPR, GDPR, and other applicable laws  
 
 ---
 
